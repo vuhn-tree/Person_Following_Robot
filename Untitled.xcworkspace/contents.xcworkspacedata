@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../Documents/Processing/HeadTracking/circleForAHead.pde">
+   </FileRef>
+   <FileRef
+      location = "group:../../Documents/Processing/HeadTracking/eventBasedMethods.pde">
+   </FileRef>
+   <FileRef
+      location = "group:../../Documents/Processing/HeadTracking/graphPID.pde">
+   </FileRef>
+   <FileRef
+      location = "group:../../Documents/Processing/HeadTracking/keyboardEvents.pde">
+   </FileRef>
+   <FileRef
+      location = "group:../../Documents/Processing/HeadTracking/satSearch.pde">
+   </FileRef>
+   <FileRef
+      location = "container:HeadTracking.pde">
+   </FileRef>
+</Workspace>
